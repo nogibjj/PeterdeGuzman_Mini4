@@ -1,10 +1,12 @@
- # This is a README for IDS 706 Individual Project 1
+ # This is a README for IDS 706 Mini Project 1
 
-### Status Badges 
-[![Install](https://github.com/nogibjj/PeterdeGuzman_IndividualProject1/actions/workflows/install.yml/badge.svg)](https://github.com/nogibjj/PeterdeGuzman_IndividualProject1/actions/workflows/install.yml)
-[![Format](https://github.com/nogibjj/PeterdeGuzman_IndividualProject1/actions/workflows/format.yml/badge.svg)](https://github.com/nogibjj/PeterdeGuzman_IndividualProject1/actions/workflows/format.yml)
-[![Lint](https://github.com/nogibjj/PeterdeGuzman_IndividualProject1/actions/workflows/lint.yml/badge.svg)](https://github.com/nogibjj/PeterdeGuzman_IndividualProject1/actions/workflows/lint.yml)
-[![Test](https://github.com/nogibjj/PeterdeGuzman_IndividualProject1/actions/workflows/test.yml/badge.svg)](https://github.com/nogibjj/PeterdeGuzman_IndividualProject1/actions/workflows/test.yml)
+## Note: this repository is identical to Individual Project 1, with the exception of an added Github Actions Matrix. 
+
+Screenshot proof of Github Actions Matrix in the "cicd1.yml" file:
+![alt text](cicd_screenshot.png)
+
+### Status Badge
+[![CICD](https://github.com/nogibjj/PeterdeGuzman_Mini4/actions/workflows/cicd1.yml/badge.svg)](https://github.com/nogibjj/PeterdeGuzman_Mini4/actions/workflows/cicd1.yml)
 
 ### Youtube Video:
 
