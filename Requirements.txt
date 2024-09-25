@@ -9,6 +9,6 @@ ruff==0.0.284
 
 #analysis & data viz
 pandas
-matplotlib==3.9.2
+matplotlib
 numpy
 
