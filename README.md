@@ -5,6 +5,8 @@
 Screenshot proof of Github Actions Matrix in the "cicd1.yml" file:
 ![alt text](cicd_screenshot.png)
 
+The matrix strategy allows us to enable the use of multiple versions of Python in this repository. 
+
 ### Status Badge
 [![CICD](https://github.com/nogibjj/PeterdeGuzman_Mini4/actions/workflows/cicd1.yml/badge.svg)](https://github.com/nogibjj/PeterdeGuzman_Mini4/actions/workflows/cicd1.yml)
 
