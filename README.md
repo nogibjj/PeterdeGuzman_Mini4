@@ -5,7 +5,7 @@
 Screenshot proof of Github Actions Matrix in the "cicd1.yml" file:
 ![alt text](cicd_screenshot.png)
 
-The matrix strategy allows us to enable the use of multiple versions of Python in this repository. 
+The matrix strategy allows us to enable the use of multiple versions of Python in this repository. To have successful builds for four versions of Python, I had to unpin the pandas, numpy and matplotlib packages in my "Requirements.txt" file.
 
 ### Status Badge
 [![CICD](https://github.com/nogibjj/PeterdeGuzman_Mini4/actions/workflows/cicd1.yml/badge.svg)](https://github.com/nogibjj/PeterdeGuzman_Mini4/actions/workflows/cicd1.yml)
